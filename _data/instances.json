@@ -14,7 +14,10 @@
   { "host": "chillpeep.zone" },
   { "host": "chitter.xyz" },
   { "host": "claws.blue" },
-  { "host": "cloudycrux.es", "wikifurDescription": "[[Crux]]es" },
+  {
+    "host": "cloudycrux.es",
+    "wikifurDescription": "[[Crux (species)|Cruxes]]"
+  },
   { "host": "critter.zone", "wikifurDescription": "[[Therian]]s" },
   { "host": "cubhub.social", "wikifurDescription": "[[Babyfur]]s" },
   {
