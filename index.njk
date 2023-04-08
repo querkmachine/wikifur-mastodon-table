@@ -10,12 +10,12 @@
 	
 <textarea style="width: 100%" rows="50">{| class="wikitable sortable"
 |-
-! Website !! data-sort-type="number" | Users !! Focus
+! Website !! data-sort-type="number" | Users !! Focus !! Registration
 {%- for i in instances | sort(false, false, 'host') %}
 {%- set info = i.host | instanceInfo %}
 {%- if not info.error %}
 |-
-| [https://{{i.host}} {{i.host}}] || {{ info.stats.user_count | numberFormat }} || {{ i.wikifurDescription }}
+| [https://{{i.host}} {{i.host}}] || {{ info.stats.user_count | numberFormat }} || {{ i.wikifurDescription }} || {{ info | registrationStatus }}
 {%- endif %}
 {%- endfor %}
 |}</textarea>

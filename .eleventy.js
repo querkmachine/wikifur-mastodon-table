@@ -17,5 +17,18 @@ module.exports = function (eleventyConfig) {
     return Intl.NumberFormat("en").format(num);
   });
 
+  eleventyConfig.addFilter("registrationStatus", function (info) {
+    if (info.registrations && info.approval_required) {
+      return "New users require approval.";
+    }
+    if (info.registrations) {
+      return "Open registration.";
+    }
+    if (info.invites_enabled) {
+      return "New users by invite only.";
+    }
+    return "";
+  });
+
   return {};
 };
