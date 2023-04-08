@@ -1,0 +1,148 @@
+[
+  { "host": "animal.business" },
+  { "host": "awtter.me", "wikifurDescription": "[[Otter]]s" },
+  { "host": "awoo.chat" },
+  { "host": "awoo.fyi" },
+  { "host": "awoo.space" },
+  { "host": "babyfurs.social", "wikifurDescription": "[[Babyfur]]s" },
+  { "host": "bark.lgbt" },
+  { "host": "batchats.net", "wikifurDescription": "[[Bat]]s" },
+  { "host": "bears.town", "wikifurDescription": "[[Bear]]s" },
+  { "host": "blimps.xyz", "wikifurDescription": "[[Inflation]]" },
+  { "host": "casually.cat" },
+  { "host": "cackl.io", "wikifurDescription": "[[Hyena]]s" },
+  { "host": "chillpeep.zone" },
+  { "host": "chitter.xyz" },
+  { "host": "claws.blue" },
+  { "host": "cloudycrux.es", "wikifurDescription": "[[Crux]]es" },
+  { "host": "critter.zone", "wikifurDescription": "[[Therian]]s" },
+  { "host": "cubhub.social", "wikifurDescription": "[[Babyfur]]s" },
+  {
+    "host": "cyberfurz.social",
+    "wikifurDescription": "Technology, [[VRChat]]"
+  },
+  { "host": "dariox.club", "wikifurDescription": "Technology" },
+  { "host": "derg.social" },
+  { "host": "dogbox.social", "wikifurDescription": "[[Fursuit]]ing" },
+  { "host": "dook.business", "wikifurDescription": "[[Mustelid]]s" },
+  { "host": "dragonchat.org", "wikifurDescription": "[[Dragon]]s" },
+  {
+    "host": "equestria.social",
+    "wikifurDescription": "''[[My Little Pony]]''"
+  },
+  { "host": "fellies.social" },
+  { "host": "floofy.tech", "wikifurDescription": "Technology" },
+  {
+    "host": "fluffs.au",
+    "wikifurDescription": "[[:Category:Oceania|Oceanian]] furries"
+  },
+  {
+    "host": "furality.social",
+    "wikifurDescription": "[[Furality Online Xperience]] convention"
+  },
+  { "host": "furred.social" },
+  { "host": "furries.club" },
+  {
+    "host": "furries.init.engineer",
+    "wikifurDescription": "[[:Category:China|Chinese]] furries"
+  },
+  { "host": "furry.energy" },
+  { "host": "furry.engineer", "wikifurDescription": "Technology" },
+  { "host": "furry.fail", "wikifurDescription": "Furry content creators" },
+  { "host": "furs.social" },
+  {
+    "host": "mastodon.furrycon.social",
+    "wikifurDescription": "Furry [[:Category:Conventions|conventions]]"
+  },
+  {
+    "host": "mastodon.furrybrigade.net",
+    "wikifurDescription": "[[PhiliFur]] convention"
+  },
+  { "host": "furryfandom.me" },
+  { "host": "fursuits.online", "wikifurDescription": "[[Fursuit]]ing" },
+  { "host": "fuzzy.zone", "wikifurDescription": "[[Hypnosis]]" },
+  { "host": "gulp.cafe", "wikifurDescription": "[[Vore]]" },
+  { "host": "hyss.us", "wikifurDescription": "[[Reptile]]s, [[kobold]]s" },
+  { "host": "ibite.lol", "wikifurDescription": "Furry [[pornography]]" },
+  { "host": "kangaroo.to", "wikifurDescription": "[[Kangaroo]]s" },
+  {
+    "host": "kitsunet.net",
+    "wikifurDescription": "[[Otherkin]], [[therian]]s"
+  },
+  { "host": "macrofurs.social", "wikifurDescription": "[[Macro]], [[micro]]" },
+  { "host": "mastodon.furrypaws.cc" },
+  {
+    "host": "mastodon.genderversefurries.com",
+    "wikifurDescription": "[[Transgender]] furries"
+  },
+  { "host": "mastodon.sergal.org", "wikifurDescription": "[[Sergal]]s" },
+  { "host": "meemu.org" },
+  { "host": "meow.social" },
+  { "host": "moth.zone" },
+  { "host": "muzzlespace.com" },
+  { "host": "owo.town" },
+  { "host": "packmates.org", "wikifurDescription": "[[Therian]]s" },
+  { "host": "pawb.fun" },
+  { "host": "paws.town", "wikifurDescription": "[[Paw]]s" },
+  { "host": "pettingzoo.co" },
+  { "host": "plush.city", "wikifurDescription": "[[Plush toy]]s" },
+  {
+    "host": "poketopia.city",
+    "wikifurDescription": "''[[Pokémon]]'', [[transformation]]"
+  },
+  { "host": "pony.social", "wikifurDescription": "''[[My Little Pony]]''" },
+  { "host": "pounced-on.me" },
+  { "host": "puppo.space" },
+  { "host": "pups.social", "wikifurDescription": "[[Dog]]s" },
+  { "host": "rawr.ink" },
+  { "host": "rawr.space", "wikifurDescription": "[[Dragon]]s, [[scalie]]s" },
+  { "host": "red.fox.yt", "wikifurDescription": "[[Fox]]es" },
+  { "host": "redpanda.lgbt" },
+  { "host": "redwombat.social" },
+  { "host": "shark.community", "wikifurDescription": "[[Shark]]s" },
+  { "host": "snaggletooth.life" },
+  { "host": "social.blimped.net", "wikifurDescription": "[[Inflation]]" },
+  { "host": "social.furryrefuge.com" },
+  {
+    "host": "social.furry.nz",
+    "wikifurDescription": "[[:Category:New Zealand|New Zealand]] furries"
+  },
+  {
+    "host": "social.furry.scot",
+    "wikifurDescription": "[[:Category:Scotland|Scottish]] furries"
+  },
+  { "host": "social.pawsitiv.space" },
+  { "host": "socialpa.ws" },
+  { "host": "squawk.avian.space", "wikifurDescription": "[[Avian]]s" },
+  {
+    "host": "squeak.social",
+    "wikifurDescription": "[[Inflatables]], [[balloonie]]s"
+  },
+  {
+    "host": "squeaky.social",
+    "wikifurDescription": "[[Inflatables]], [[balloonie]]s"
+  },
+  { "host": "stop.voring.me" },
+  { "host": "supertails.social" },
+  {
+    "host": "tailswish.industries",
+    "wikifurDescription": "[[Otherkin]], [[therian]]s"
+  },
+  { "host": "thicc.horse", "wikifurDescription": "Body positivity, kink" },
+  { "host": "this.mouse.rocks" },
+  {
+    "host": "tiggi.es",
+    "wikifurDescription": "Body positivity, gaming, technology"
+  },
+  {
+    "host": "toot.finfur.net",
+    "wikifurDescription": "[[:Category:Finland|Finnish]] furries"
+  },
+  { "host": "transfur.social", "wikifurDescription": "[[Transformation]]" },
+  { "host": "vulpine.club" },
+  { "host": "waff.club" },
+  { "host": "wobbl.xyz", "wikifurDescription": "[[Fatfur]]s" },
+  { "host": "woof.tech" },
+  { "host": "wuff.space" },
+  { "host": "yiff.life" }
+]
