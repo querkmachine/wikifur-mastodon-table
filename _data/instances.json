@@ -8,6 +8,7 @@
   { "host": "bark.lgbt" },
   { "host": "batchats.net", "wikifurDescription": "[[Bat]]s" },
   { "host": "bears.town", "wikifurDescription": "[[Bear]]s" },
+  { "host": "birdbutt.com", "wikifurDescription": "[[Avian]]s" },
   { "host": "blimps.xyz", "wikifurDescription": "[[Inflation]]" },
   { "host": "casually.cat" },
   { "host": "cackl.io", "wikifurDescription": "[[Hyena]]s" },
@@ -117,6 +118,7 @@
   { "host": "social.pawsitiv.space" },
   { "host": "socialpa.ws" },
   { "host": "squawk.avian.space", "wikifurDescription": "[[Avian]]s" },
+  { "host": "squawk.social", "wikifurDescription": "[[Avian]]s" },
   {
     "host": "squeak.social",
     "wikifurDescription": "[[Inflatables]], [[balloonie]]s"
